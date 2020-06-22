@@ -1,4 +1,4 @@
-#Farabi Hasan ; UCID: 30110302
+#Farabi Hasan ;
 
 #This program codes for a clown face that is positioned in the window in response to user input.
 

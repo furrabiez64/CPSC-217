@@ -1,4 +1,4 @@
-#Farabi Hasan; 30110302
+#Farabi Hasan;
 
 #This program displays a map of various hurricanes with lines of longitude and
 #latitude, hurricane positions, paths, and strengths (via colour indicators).

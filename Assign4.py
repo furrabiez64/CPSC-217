@@ -1,4 +1,4 @@
-#Farabi Hasan; UCID: 30110302
+#Farabi Hasan;
 
 #This program contains code that displays certain features of a food web by
 #creating and calling a set of functions.
